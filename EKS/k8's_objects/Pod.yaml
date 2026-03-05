@@ -8,7 +8,7 @@ metadata:
 spec:
   containers:
   - name: customer
-    image: 851271747310.dkr.ecr.us-east-2.amazonaws.com/customer:1
+    image: 931846072502.dkr.ecr.us-east-1.amazonaws.com/customer
     ports:
     - containerPort: 8080
   - name: webapp
